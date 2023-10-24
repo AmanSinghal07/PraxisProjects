@@ -6,4 +6,4 @@ Rainfall prediction : weatherAus.csv data used,Rainfall_prediction.ipynb files c
 
 flight fare  prediction : flightfare.xlsx data used,flight_fare_prediction.ipynb files contains the code
 
-pizza sales Analysis : pizzasalesDashboard.pbix file
+pizza sales Analysis : pizzasalesDashboard.pbix file(order.csv,order_details.csv,pizza_types.csv,pizzas.csv data used)
